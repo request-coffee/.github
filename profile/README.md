@@ -1,4 +1,4 @@
-# Marcaki :calendar_spiral:
+# Marcaki :calendar:
 
 **Bem-vindo(a) ao repositório oficial da Marcaki!**  
 Nós somos uma empresa especializada em **agendamentos** e **gerenciamento** de serviços, oferecendo soluções completas para agilizar a rotina de qualquer negócio que necessite de marcações e reagendamentos.
