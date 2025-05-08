@@ -2,22 +2,11 @@
 
 ### Café, Código & Cibersegurança
 
-Request.coffee is a Brazilian cybersecurity company focused on turning complex security challenges into simple, actionable solutions. We operate across three pillars:
+Request.coffee is a Brazilian cybersecurity company that transforms complex security challenges into clear, actionable wins for your business. We operate across three complementary pillars:
 
-1. **Consulting** – Precision pentests, red & blue teaming, secure‑by‑design reviews and employee up‑skilling.
-2. **Labs** – A permanent CTF arena and research hub where the community can break things safely and share PoCs.
-3. **Software (coming soon)** – Open‑source + commercial tools that automate recon, exploitation and reporting.
-
----
-
-## 🎯 What makes us different?
-
-| Value | What it means for you |
-|-------|-----------------------|
-| **Ethics first** | Clear legal scope, NDAs, and strict privacy on every engagement. |
-| **Transparent deliverables** | Evidence‑based reports, reproducible PoCs, measurable KPIs. |
-| **Hands‑on R&D** | Findings from Labs feed directly into consulting playbooks and tools. |
-| **Community driven** | Scholarships, free workshops and public write‑ups to grow new defenders & breakers. |
+1. **Consulting** – Precision pentests, red & blue teaming, secure‑by‑design reviews and staff up‑skilling.
+2. **Labs** – A permanent CTF arena and research hub where professionals and students can test ideas safely and showcase Proofs of Concept.
+3. **Software (coming soon)** – A toolset that will automate reconnaissance, exploitation workflows and executive‑grade reporting.
 
 ---
 
@@ -25,40 +14,28 @@ Request.coffee is a Brazilian cybersecurity company focused on turning complex s
 
 | Service | Snapshot |
 |---------|----------|
-| Pentest & Red Team | Controlled attack simulations that expose real‑world impact before attackers do. |
+| Pentest & Red Team | Controlled attack simulations that reveal real‑world impact before adversaries can exploit it. |
 | Blue Team & Hardening | Configuration audits, threat modeling and continuous security monitoring. |
 | OSINT & Threat Hunting | External attack‑surface mapping for brands, infrastructure and people. |
-| Training & Awareness | Custom labs and workshops that turn staff into an additional security layer. |
+| Training & Awareness | Custom workshops and labs that embed security thinking across your organisation. |
 
 ---
 
 ## 🔬 Request Labs
 
-A self‑hosted CTF platform with **live leaderboards, dynamic scoring and API access**. Perfect for:
-
-* Internal up‑skilling
-* Public research events
-* Gamified hiring pipelines
-
-> **Stats (2025‑Q2):** 18 k users • 250+ challenges • 1.4 k hours of streamed content
+Our CTF platform powers immersive events and gamified selection processes that attract and validate top‑tier talent while stress‑testing real‑world scenarios in a safe environment. Perfect for corporate up‑skilling, public competitions or private recruiting challenges.
 
 ---
 
-## 🛠️ Request Software *(alpha roadmap)*
+## 🛠️ Request Software *(coming soon)*
 
-| Tool | Stage | Purpose |
-|------|-------|---------|
-| **ReconCLI** | Prototype | Large‑scale OSINT & asset discovery |
-| **Pentest Orchestrator** | Design | Pipeline that chains scanners, exploit modules and markdown ↠ docx reports |
-| **SecureCoffee SDK** | R&D | Helpers to embed best‑practice security into web apps |
+We are building an ecosystem of open‑source and commercial tools designed to streamline reconnaissance, exploitation and report generation. Follow our GitHub to stay up to date with early releases.
 
 ---
 
-## 📚 Resources
+## 📚 Insights & Guides
 
-* [White‑paper: "Security by Coffee" (PDF)](https://request.coffee/whitepapers/security‑by‑coffee.pdf)
-* [Public write‑ups & PoCs](https://labs.request.coffee/writeups)
-* [Annual Impact Report 2024](https://request.coffee/reports/impact‑2024.pdf)
+We regularly publish practical articles and how‑to’s on our blog. New content drops soon at **blog.request.coffee**.
 
 ---
 
@@ -72,7 +49,7 @@ A self‑hosted CTF platform with **live leaderboards, dynamic scoring and API a
 | **LinkedIn** | https://linkedin.com/company/request‑coffee |
 | **GitHub** | https://github.com/request‑coffee |
 
-> Grab a coffee – let’s make security an enabler, not a blocker.
+> Grab a coffee – security made practical.
 
 ---
 
