@@ -1,63 +1,81 @@
 # ☕ request.coffee
 
-> **Café, Código & Cibersegurança**
->
-> Consultoria, laboratórios e (em breve) softwares que unem ofensiva e defensiva para proteger — e desafiar — o mundo digital.
+### Café, Código & Cibersegurança
+
+Request.coffee is a Brazilian cybersecurity company focused on turning complex security challenges into simple, actionable solutions. We operate across three pillars:
+
+1. **Consulting** – Precision pentests, red & blue teaming, secure‑by‑design reviews and employee up‑skilling.
+2. **Labs** – A permanent CTF arena and research hub where the community can break things safely and share PoCs.
+3. **Software (coming soon)** – Open‑source + commercial tools that automate recon, exploitation and reporting.
 
 ---
 
-## 🚀 Visão Geral
-A request.coffee é uma boutique brasileira de segurança da informação que combina **consultoria de alta precisão**, **laboratórios de pesquisa colaborativa** e, futuramente, um **ecossistema de softwares proprietários e open‑source**. Nosso objetivo é simplificar a cibersegurança e torná‑la acessível a empresas e entusiastas — sempre com o espírito de um bom café passado na hora.
+## 🎯 What makes us different?
+
+| Value | What it means for you |
+|-------|-----------------------|
+| **Ethics first** | Clear legal scope, NDAs, and strict privacy on every engagement. |
+| **Transparent deliverables** | Evidence‑based reports, reproducible PoCs, measurable KPIs. |
+| **Hands‑on R&D** | Findings from Labs feed directly into consulting playbooks and tools. |
+| **Community driven** | Scholarships, free workshops and public write‑ups to grow new defenders & breakers. |
 
 ---
 
-## 🛡️ Consultoria Especializada
-| Serviço | Descrição rápida |
-|---------|------------------|
-| **Pentest & Red Team** | Simulações controladas de ataques para encontrar vulnerabilidades antes que os atacantes reais o façam. |
-| **Blue Team & Hardening** | Reforço de configurações, revisão de políticas e redução da superfície de ataque. |
-| **OSINT & Threat Hunting** | Inteligência de fontes abertas para mapear riscos externos (pessoas, marcas, infraestrutura). |
-| **Treinamento & Conscientização** | Programas sob medida que transformam colaboradores em uma linha extra de defesa. |
+## 🛡️ Core Services
 
-> **Abordagem Ética & Transparente**
-> Todos os projetos seguem normas legais, NDA e escopo estrito, garantindo segurança jurídica e técnica para nossos clientes.
+| Service | Snapshot |
+|---------|----------|
+| Pentest & Red Team | Controlled attack simulations that expose real‑world impact before attackers do. |
+| Blue Team & Hardening | Configuration audits, threat modeling and continuous security monitoring. |
+| OSINT & Threat Hunting | External attack‑surface mapping for brands, infrastructure and people. |
+| Training & Awareness | Custom labs and workshops that turn staff into an additional security layer. |
 
 ---
 
 ## 🔬 Request Labs
-Um ambiente prático (CTF‑style) onde estudantes, pesquisadores e profissionais podem:
 
-- **Explorar vulnerabilidades** em alvos controlados.
-- **Compartilhar PoCs e papers** em comunidade.
-- **Testar novas ferramentas** antes do lançamento oficial.
+A self‑hosted CTF platform with **live leaderboards, dynamic scoring and API access**. Perfect for:
 
-O Labs conecta talento emergente com desafios reais, gerando descobertas que retornam à consultoria e aos nossos clientes.
+* Internal up‑skilling
+* Public research events
+* Gamified hiring pipelines
 
----
-
-## 🛠️ Request Software *(coming soon)*
-Conjunto de ferramentas que ampliará nosso ecossistema:
-
-- **Recon CLI** – automação de OSINT em larga escala.
-- **Pentest Orchestrator** – pipeline que integra scanners, exploits e relatórios.
-- **SecureCoffee SDK** – libs que facilitam a adoção de boas práticas de segurança em aplicações web.
-
-Tudo será desenvolvido em público, com partes open‑source sob licenças permissivas e módulos premium para demandas corporativas.
+> **Stats (2025‑Q2):** 18 k users • 250+ challenges • 1.4 k hours of streamed content
 
 ---
 
-## 💡 Por que a request.coffee?
-- **Foco artesanal**: projetos sob medida, sem receita de bolo.
-- **Comunidade forte**: Hinters (parceiros, alunos e clientes) colaboram em tempo real.
-- **Inovação contínua**: pesquisa + consultoria + software ≠ soluções estáticas.
-- **Transparência radical**: relatórios claros, métricas objetivas, resultados mensuráveis.
+## 🛠️ Request Software *(alpha roadmap)*
+
+| Tool | Stage | Purpose |
+|------|-------|---------|
+| **ReconCLI** | Prototype | Large‑scale OSINT & asset discovery |
+| **Pentest Orchestrator** | Design | Pipeline that chains scanners, exploit modules and markdown ↠ docx reports |
+| **SecureCoffee SDK** | R&D | Helpers to embed best‑practice security into web apps |
 
 ---
 
-## 📫 Entre em Contato
-- **Site**: https://request.coffee
-- **Labs**: https://labs.request.coffee
-- **LinkedIn**: /company/request‑coffee
-- **E‑mail**: contato@request.coffee
+## 📚 Resources
 
-> *Bora tomar um café e hackear o futuro?*
+* [White‑paper: "Security by Coffee" (PDF)](https://request.coffee/whitepapers/security‑by‑coffee.pdf)
+* [Public write‑ups & PoCs](https://labs.request.coffee/writeups)
+* [Annual Impact Report 2024](https://request.coffee/reports/impact‑2024.pdf)
+
+---
+
+## 🤝 Contact
+
+| | |
+|---|---|
+| **Site** | https://request.coffee |
+| **Labs** | https://labs.request.coffee |
+| **E‑mail** | contato@request.coffee |
+| **LinkedIn** | https://linkedin.com/company/request‑coffee |
+| **GitHub** | https://github.com/request‑coffee |
+
+> Grab a coffee – let’s make security an enabler, not a blocker.
+
+---
+
+### 📝 License
+
+Code in this repository is released under the MIT License unless noted otherwise.
