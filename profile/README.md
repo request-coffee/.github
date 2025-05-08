@@ -1,35 +1,63 @@
 # ☕ request.coffee
 
-> **Café, Código & Cibersegurança** – um hub independente que combina pesquisa ofensiva, consultoria defensiva e desenvolvimento de ferramentas open-source para tornar a web (um pouco) menos vulnerável.
+> **Café, Código & Cibersegurança**
+>
+> Consultoria, laboratórios e (em breve) softwares que unem ofensiva e defensiva para proteger — e desafiar — o mundo digital.
 
 ---
 
-## 🔍 Quem somos
-
-A request.coffee nasceu como um laboratório informal de pesquisa em segurança da informação e cresceu até virar:
-
-1. **Consultoria especializada** – planejamos e executamos pentests, revisões de arquitetura, hardening e programas de awareness sob medida, sempre guiados por relatórios acionáveis e muita transparência.  
-2. **Labs colaborativos** – ambiente controlado onde a comunidade pode testar exploits, validar POCs e estudar vulnerabilidades sem colocar ninguém em risco.  
-3. **Software open-source** – criamos e mantemos ferramentas que automatizam desde OSINT até fuzzing, integrando IA onde faz sentido para acelerar análises.
+## 🚀 Visão Geral
+A request.coffee é uma boutique brasileira de segurança da informação que combina **consultoria de alta precisão**, **laboratórios de pesquisa colaborativa** e, futuramente, um **ecossistema de softwares proprietários e open‑source**. Nosso objetivo é simplificar a cibersegurança e torná‑la acessível a empresas e entusiastas — sempre com o espírito de um bom café passado na hora.
 
 ---
 
-## 🧰 Nossos produtos & projetos chave
+## 🛡️ Consultoria Especializada
+| Serviço | Descrição rápida |
+|---------|------------------|
+| **Pentest & Red Team** | Simulações controladas de ataques para encontrar vulnerabilidades antes que os atacantes reais o façam. |
+| **Blue Team & Hardening** | Reforço de configurações, revisão de políticas e redução da superfície de ataque. |
+| **OSINT & Threat Hunting** | Inteligência de fontes abertas para mapear riscos externos (pessoas, marcas, infraestrutura). |
+| **Treinamento & Conscientização** | Programas sob medida que transformam colaboradores em uma linha extra de defesa. |
 
-| Projeto | Descrição rápida | Status |
-|---------|-----------------|--------|
-| **RC-Labs** | Plataforma de laboratório online com VMs vulneráveis, scoreboard e write-ups. | Beta |
-| **ReconBrew** | Framework de coleta OSINT/Pentest CLI 100 % scriptável. | Stable |
-| **ScopeParser** | Parsing automático de escopos em PDF (URLs, IPs, regras) → JSON. | Alpha |
-| **Pentest-AI** | Agente IA que orquestra ferramentas (Nmap, Metasploit, etc.) e gera relatórios. | Research |
-
-> Veja a pasta `software/` para código-fonte e instruções específicas.
+> **Abordagem Ética & Transparente**
+> Todos os projetos seguem normas legais, NDA e escopo estrito, garantindo segurança jurídica e técnica para nossos clientes.
 
 ---
 
-## 🚀 Primeiros passos
+## 🔬 Request Labs
+Um ambiente prático (CTF‑style) onde estudantes, pesquisadores e profissionais podem:
 
-```bash
-git clone https://github.com/request-coffee/request.coffee.git
-cd request.coffee
-# cada projeto possui README próprio em /software/<nome>
+- **Explorar vulnerabilidades** em alvos controlados.
+- **Compartilhar PoCs e papers** em comunidade.
+- **Testar novas ferramentas** antes do lançamento oficial.
+
+O Labs conecta talento emergente com desafios reais, gerando descobertas que retornam à consultoria e aos nossos clientes.
+
+---
+
+## 🛠️ Request Software *(coming soon)*
+Conjunto de ferramentas que ampliará nosso ecossistema:
+
+- **Recon CLI** – automação de OSINT em larga escala.
+- **Pentest Orchestrator** – pipeline que integra scanners, exploits e relatórios.
+- **SecureCoffee SDK** – libs que facilitam a adoção de boas práticas de segurança em aplicações web.
+
+Tudo será desenvolvido em público, com partes open‑source sob licenças permissivas e módulos premium para demandas corporativas.
+
+---
+
+## 💡 Por que a request.coffee?
+- **Foco artesanal**: projetos sob medida, sem receita de bolo.
+- **Comunidade forte**: Hinters (parceiros, alunos e clientes) colaboram em tempo real.
+- **Inovação contínua**: pesquisa + consultoria + software ≠ soluções estáticas.
+- **Transparência radical**: relatórios claros, métricas objetivas, resultados mensuráveis.
+
+---
+
+## 📫 Entre em Contato
+- **Site**: https://request.coffee
+- **Labs**: https://labs.request.coffee
+- **LinkedIn**: /company/request‑coffee
+- **E‑mail**: contato@request.coffee
+
+> *Bora tomar um café e hackear o futuro?*
