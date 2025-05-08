@@ -1,52 +1,35 @@
-# Marcaki :calendar:
+# ☕ request.coffee
 
-**Bem-vindo(a) ao repositório oficial da Marcaki!**  
-Nós somos uma empresa especializada em **agendamentos** e **gerenciamento** de serviços, oferecendo soluções completas para agilizar a rotina de qualquer negócio que necessite de marcações e reagendamentos.
-
----
-
-## :briefcase: O que fazemos
-- **Área Privada de Agendamento**  
-  Contrate nossos serviços para receber uma área privada, onde **seus usuários** podem se cadastrar e realizar agendamentos e reagendamentos de forma fácil e segura.  
-- **Tecnologias de Gerenciamento**  
-  Além do software de agendamento, estamos **desenvolvendo** (fique de olho!) outras ferramentas para simplificar a gestão de diversos setores.
+> **Café, Código & Cibersegurança** – um hub independente que combina pesquisa ofensiva, consultoria defensiva e desenvolvimento de ferramentas open-source para tornar a web (um pouco) menos vulnerável.
 
 ---
 
-## :link: Acesse nosso site
-Para conhecer nossos planos, recursos e novidades, visite:  
-[**https://marcaki.com**](https://marcaki.com)
+## 🔍 Quem somos
+
+A request.coffee nasceu como um laboratório informal de pesquisa em segurança da informação e cresceu até virar:
+
+1. **Consultoria especializada** – planejamos e executamos pentests, revisões de arquitetura, hardening e programas de awareness sob medida, sempre guiados por relatórios acionáveis e muita transparência.  
+2. **Labs colaborativos** – ambiente controlado onde a comunidade pode testar exploits, validar POCs e estudar vulnerabilidades sem colocar ninguém em risco.  
+3. **Software open-source** – criamos e mantemos ferramentas que automatizam desde OSINT até fuzzing, integrando IA onde faz sentido para acelerar análises.
 
 ---
 
-## :gear: Como funciona
-1. **Contratação**  
-   Entre em contato conosco e escolha o plano que melhor se adapta ao seu negócio.  
-2. **Configuração**  
-   Nossa equipe de desenvolvimento **sobe** uma área privada personalizada para sua empresa, onde os usuários podem se cadastrar e gerenciar seus horários.  
-3. **Integração**  
-   Ajustamos o ambiente para combinar com a identidade visual e as necessidades específicas do seu negócio.
+## 🧰 Nossos produtos & projetos chave
+
+| Projeto | Descrição rápida | Status |
+|---------|-----------------|--------|
+| **RC-Labs** | Plataforma de laboratório online com VMs vulneráveis, scoreboard e write-ups. | Beta |
+| **ReconBrew** | Framework de coleta OSINT/Pentest CLI 100 % scriptável. | Stable |
+| **ScopeParser** | Parsing automático de escopos em PDF (URLs, IPs, regras) → JSON. | Alpha |
+| **Pentest-AI** | Agente IA que orquestra ferramentas (Nmap, Metasploit, etc.) e gera relatórios. | Research |
+
+> Veja a pasta `software/` para código-fonte e instruções específicas.
 
 ---
 
-## :sparkles: Em desenvolvimento... aguardem!
-Estamos continuamente **aprimorando** nossas soluções e criando novas tecnologias de gerenciamento. Fique de olho para futuras atualizações, pois muitas novidades incríveis estão a caminho!
+## 🚀 Primeiros passos
 
----
-
-## :handshake: Contribuições e Feedback
-No momento, alguns repositórios podem estar fechados ou em modo privado. Caso queira propor melhorias, relatar bugs ou se interessar em colaborações futuras, fique à vontade para:
-
-1. **Visitar nosso site oficial** [**marcaki.com**](https://marcaki.com)
-2. **Entrar em contato** pelos nossos canais de atendimento
-
----
-
-## :question: Suporte
-Se tiver dúvidas, sugestões ou precisar de ajuda, você pode:
-- **Abrir uma issue** (caso o repositório seja público e aceitemos feedback).
-- **Entrar em contato** diretamente pelo nosso site ou pelos canais oficiais de suporte.
-
----
-
-## :rocket: Marcaki – Simplificando agendamentos e impulsionando a eficiência do seu negócio!
+```bash
+git clone https://github.com/request-coffee/request.coffee.git
+cd request.coffee
+# cada projeto possui README próprio em /software/<nome>
